@@ -1,5 +1,5 @@
 # Data-Expo-2009-Flight-Analysis
-This is the final project for MScA 31013 Bid Data Platforms
+This is the final project for MScA 31013 Big Data Platforms
 #
 The objective of this project is to analyze the cancellation and delay for all commercial flights within the USA  from 1987 to 2008
 # 
